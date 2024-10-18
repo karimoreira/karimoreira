@@ -1,7 +1,7 @@
 
-## 👋 Oi, meu nome é Kari!
+## 👋 Oi, eu sou o Kari Atílio!
 
-Sou um desenvolvedor web full stack jr. e apaixonado por tecnologia!
+Sou desenvolvedor web full stack e apaixonado por tecnologia!
 
 ---
 
