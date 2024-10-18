@@ -1,9 +1,12 @@
 
-## 💙 Oi, meu nome é Kari!
+##  Oi, meu nome é Kari!
 
-Sou desenvolvedor web full stack jr. e apaixonado por tecnologia!
+
+
+Sou um desenvolvedor web full stack jr. e apaixonado por tecnologia!
 
 ---
+
 
 ## 🚀 Minhas Skills
 
@@ -26,4 +29,3 @@ Sou desenvolvedor web full stack jr. e apaixonado por tecnologia!
 ## ⭐ GitHub Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karimoreira&show_icons=true&theme=onedark)
-
