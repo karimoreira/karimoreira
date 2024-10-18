@@ -24,7 +24,7 @@ Sou um desenvolvedor web full stack jr. e apaixonado por tecnologia!
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/azure/azure.png" alt="Azure"/></code>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" alt="Git"/></code>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" alt="Java"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/eclipse/eclipse.png" alt="Eclipse"/></code>
+  <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" alt="Eclipse"/></code>
 </p>
 
 ---
