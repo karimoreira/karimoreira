@@ -31,6 +31,10 @@ Sou desenvolvedor full stack e apaixonado por tecnologia!
 
 ---
 
+## 📲 Contact me:
+
+[![Telegram](https://img.shields.io/badge/Telegram-0F0F0F?style=for-the-badge&logo=telegram&logoColor=00CED1)](https://t.me/KariAtilio)
+
 ## 📊 GitHub Stats
 
 <p align="center">
