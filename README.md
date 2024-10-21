@@ -1,7 +1,7 @@
 
 ## 👋 Oi, eu sou o Kari Atílio!
 
-Sou desenvolvedor web full stack e apaixonado por tecnologia!
+Sou desenvolvedor full stack e apaixonado por tecnologia!
 
 ---
 
