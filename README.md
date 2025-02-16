@@ -1,7 +1,7 @@
 
 ## 👋 Oi, eu sou o Atílio!
 
-Sou desenvolvedor full stack e apaixonado por tecnologia!
+Desenvolvedor apaixonado por tecnologia!
 
 ---
 
