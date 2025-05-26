@@ -1,7 +1,8 @@
-
 ## 👋 Oi, eu sou o Kari Atílio!
 
 Desenvolvedor apaixonado por tecnologia!
+
+🌐 Meu portfólio: [atiliodev.com](https://www.atiliodev.com/)
 
 ---
 
