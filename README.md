@@ -1,24 +1,17 @@
 ## Oi, eu sou o Kari Atílio!
 
-Desenvolvedor apaixonado por tecnologia e sempre em busca de novos desafios! 🚀
+Desenvolvedor apaixonado por tecnologia
 
-🌐 Meu portfólio: [atiliodev.com](https://www.atiliodev.com/)
+Meu portfólio: [atiliodev.com](https://www.atiliodev.com/)
 
 
-## Minhas Contribuições no GitHub
+## Minhas contribuições no GitHub
 
-Aqui você pode acompanhar minhas estatísticas e a dedicação aos projetos!
+Aqui você pode acompanhar minhas estatísticas:
 
 [![Kari's GitHub stats](https://github-readme-stats.vercel.app/api?username=karimoreira&show_icons=true&theme=transparent&hide_title=true&hide_border=true)](https://github.com/karimoreira)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=karimoreira&theme=transparent&hide_border=true)](https://git.io/streak-stats)
-
-
-### Linguagens Mais Usadas
-
-Minhas principais ferramentas no dia a dia:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karimoreira&layout=compact&theme=transparent&hide_border=true)
 
 
 ### Conecte-se comigo!
