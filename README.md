@@ -11,8 +11,6 @@ Aqui você pode acompanhar minhas estatísticas:
 
 [![Kari's GitHub stats](https://github-readme-stats.vercel.app/api?username=karimoreira&show_icons=true&theme=transparent&hide_title=true&hide_border=true)](https://github.com/karimoreira)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=karimoreira&theme=transparent&hide_border=true)](https://git.io/streak-stats)
-
 
 ### Conecte-se comigo!
 
