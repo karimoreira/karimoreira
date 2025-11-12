@@ -1,6 +1,6 @@
 ## Olá, eu sou o Kari Atílio Moreira!
 
-Desenvolvedor JS e apaixonado por TI
+Desenvolvedor e apaixonado por TI
 
 Meu portfólio: [atiliodev.com](https://www.atiliodev.com/)
 
