@@ -1,6 +1,6 @@
 ## Olá, eu sou o Kari Atílio Moreira!
 
-Desenvolvedor e apaixonado por TI. Tenho um grande fascínio também por automação e open source
+Desenvolvedor Júnior e apaixonado por TI. Tenho um grande fascínio também por automação e open source
 
 Meu portfólio: [atiliodev.com](https://www.atiliodev.com/)
 
