@@ -6,7 +6,7 @@
 
 <br/><br/>
 
-![daily](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,nestjs,nextjs,mysql,postgres,git,linux&theme=dark)
+![daily](https://skillicons.dev/icons?i=html,css,js,react,nodejs,nestjs,nextjs,mysql&theme=dark)
 
 </div>
 
