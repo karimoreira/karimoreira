@@ -16,7 +16,6 @@
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=karimoreira&show_icons=true&theme=dracula&hide_border=true&v=jan30" />
-  <img height="180em" src="https://streak-stats.demolab.com/?user=karimoreira&theme=dracula&hide_border=true&v=2026_FIX" />
 </p>
 
 ---
