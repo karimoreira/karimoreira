@@ -1,5 +1,5 @@
 
-[![daily](https://skillicons.dev/icons?i=html,css,js,ts,rust,html,css,react,nodejs,mysql,postgres,docker,git,linux&theme=dark)](https://skillicons.dev)
+[![daily](https://skillicons.dev/icons?i=html,css,js,ts,rust,react,nodejs,nestjs,nextjs,mysql,postgres,git,linux&theme=dark)]
 
 ---
 
